@@ -1,4 +1,3 @@
-# import the necessary packages
 import fitz
 
 doc = fitz.open("PDF_Example.pdf")
